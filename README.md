@@ -254,9 +254,12 @@ sales-forecasting-and-risk-analysis/
 │   └── project_report.pdf
 │
 ├── images/
+│   └── decomposition.png
 │
-├── app/
+├── scripts/
 │   └── streamlit_app.py
+│   └── decomposition_analysis.R
+│   └── dashboard.xlsx
 │
 ├── README.md
 ├── requirements.txt
