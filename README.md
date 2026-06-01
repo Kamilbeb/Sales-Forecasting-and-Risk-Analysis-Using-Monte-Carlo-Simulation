@@ -166,7 +166,7 @@ Instead of relying on a single predicted value, the simulation generates thousan
 ### Other Tools
 
 - Excel
-- Statistica
+
 
 ---
 
